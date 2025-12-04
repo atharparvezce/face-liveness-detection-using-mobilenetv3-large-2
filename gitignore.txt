@@ -1,0 +1,20 @@
+# Ignore Jupyter auto-saves
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments/keys
+.env
+.venv/
+
+# Ignore model outputs / logs
+finetunedModel/
+log/
+
+# Ignore the Datasets files
+Datasets/
+.DS_Store
+.ipynb_checkpoints/
+.csv
